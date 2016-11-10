@@ -146,8 +146,8 @@ AUTH_USER_MODEL = 'blog.User'
 SITE_URL = 'http://192.168.1.188:8000/'
 SITE_NAME = 'Lu'
 SITE_DESC = '业精于勤荒于嬉,行成于思毁于随'
-PRO_RSS = 'http://guin.tech'
-PRO_EMAIL = 'adinyn@163.com'
+PRO_RSS = 'http://xxx.com'
+PRO_EMAIL = 'xxxxx@xxx.com'
 
 
 # 自定义日志输出信息
